@@ -1,0 +1,4 @@
+namespace: rhys-argocd
+resources:
+- ../../base
+- bgd-ns.yaml
